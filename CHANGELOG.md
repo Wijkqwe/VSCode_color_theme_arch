@@ -6,34 +6,34 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+### Added
+
+- Supports Markdown.
+
+
+
+
+## [0.2.2] - 2025-09-02
+
 - Initial release
 
+### Added
+
+- I forgot.
 
 
+## 0.2.0 - 2025-0-0
+
+### Added
+
+- Supports Python(most of).
 
 
+## 0.1.0 - 2025-0-0
+
+### Added
+
+- Supports CPP(most of).
 
 
-## 0.2.0
-python
-
-
-## 0.1.0
-cpp
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[0.2.2]: https://codeberg.org/Wijkqwe/VSCode_color_theme_arch/releases/tag/v0.2.2

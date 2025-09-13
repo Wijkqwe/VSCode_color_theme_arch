@@ -1,4 +1,7 @@
-# Arch README
+# VSCode_color_theme_arch README
+
+Most part of `RGB #1793D1`.
+
 
 ## Working with Markdown
 
@@ -14,3 +17,5 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+
