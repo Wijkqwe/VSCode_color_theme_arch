@@ -1,6 +1,25 @@
 # VSCode_color_theme_arch README
 
-Most part of `RGB #1793D1`.
+Most of the colors are `RGB #1793D1`.
+
+
+## Usage
+
+```sh
+#: Clone
+git clone https://codeberg.org/Wijkzxc/VSCode_color_theme_arch.git
+
+#: Install vsce
+npm install -g vsce
+
+#: generate theme
+cd VSCode_color_theme_arch
+vsce package
+```
+Then:
+1. Open VSCode,
+1. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>,
+1. Extensions: Install from VSIX.
 
 
 ## Working with Markdown

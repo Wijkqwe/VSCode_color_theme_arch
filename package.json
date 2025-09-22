@@ -1,7 +1,7 @@
 {
   "name": "Arch",
   "displayName": "Arch",
-  "description": "",
+  "description": "Most of the colors are `RGB #1793D1`.",
   "version": "0.2.2",
   "engines": {
     "vscode": "^1.54.0"
@@ -9,6 +9,11 @@
   "categories": [
     "Themes"
   ],
+  "homepage": "https://codeberg.org/Wijkzxc/VSCode_color_theme_arch",
+  "repository": {
+    "type": "git",
+    "directory": "https://codeberg.org/Wijkzxc/VSCode_color_theme_arch.git"
+  },
   "contributes": {
     "themes": [
       {

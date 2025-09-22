@@ -466,11 +466,11 @@
 		"minimap.background":"#101010",
 		"minimap.chatEditHighlight":"#f01010",
 		"minimap.errorHighlight":"default",
-		"minimap.findMatchHighlight":"#1793D180",
-		"minimap.foregroundOpacity":"#000000c0",
+		"minimap.findMatchHighlight":"#1793D1f0",
+		"minimap.foregroundOpacity":"#000000cc",
 		"minimap.infoHighlight":"#1793d1",
-		"minimap.selectionHighlight":"#1793d180",
-		"minimap.selectionOccurrenceHighlight":"#f7676780",
+		"minimap.selectionHighlight":"#1793d1c0",
+		"minimap.selectionOccurrenceHighlight":"#f76767c0",
 		"minimap.warningHighlight":"#cca700",
 
 		"minimapGutter.addedBackground":"#101010",
@@ -593,6 +593,7 @@
 		"simpleFindWidget.sashBorder":"#1793D1",
 
         //状态栏
+		// #region
 		"statusBar.border":"#1793D1",
         "statusBar.background":"#101010",
         //"statusBar.noFolderBackground":"#68217a",
@@ -630,6 +631,7 @@
 		"statusBarItem.warningForeground":"#1793D1",
 		"statusBarItem.warningHoverBackground":"#101010",
 		"statusBarItem.warningHoverForeground":"#1793D1",
+		// #endregion
 		
 
 		"tab.activeBackground":"#101010",
@@ -663,8 +665,24 @@
 		
         // "terminal.inactiveSelectionBackground":"#3A3D41",
         //终端
+		// #region
         "terminal.ansiBlack":"#000000",
         "terminal.ansiBlue":"#1793D1",
+		"terminal.ansiBrightBlack":"#666666",
+		"terminal.ansiBrightBlue":"#3b8eea",
+		"terminal.ansiBrightCyan":"#29b8db",
+		"terminal.ansiBrightGreen":"#23d18b",
+		"terminal.ansiBrightMagenta":"#d670d6",
+		"terminal.ansiBrightRed":"#f14c4c",
+		"terminal.ansiBrightWhite":"#e5e5e5",
+		"terminal.ansiBrightYellow":"#f5f543",
+		"terminal.ansiCyan":"#11a8cd",
+		"terminal.ansiGreen":"#0dbc79",
+		"terminal.ansiMagenta":"#bc3fbc",
+		"terminal.ansiRed":"#cd3131",
+		"terminal.ansiWhite":"#e5e5e5",
+		"terminal.ansiYellow":"#e5e510",
+
         "terminal.background": "#101010",
         "terminal.border":"#1793D1",
         "terminal.dropBackground": "#10101080",
@@ -672,7 +690,7 @@
         "terminal.findMatchBorder":"#1793D1",
         "terminal.findMatchHighlightBackground":"#10101080",
         "terminal.findMatchHighlightBorder":"#1793D1",
-        "terminal.foreground": "#33a0ff",
+        "terminal.foreground": "#1793D1",
         "terminal.hoverHighlightBackground":"#101010",
         "terminal.inactiveSelectionBackground":"#101010",
         "terminal.initialHintForeground":"#00ffff66",
@@ -680,14 +698,32 @@
         "terminal.selectionForeground":"#00ffff66",
         "terminal.tab.activeBorder":"#1793D1",
 
-        "terminalCommandDecoration.defaultBackground":"#101010",
-        "terminalCommandDecoration.errorBackground":"#101010",
-        "terminalCommandDecoration.successBackground":"#101010",
-        "terminalCommandGuide.foreground":"#37373d",
+        "terminalCommandDecoration.defaultBackground":"#f01010",
+        "terminalCommandDecoration.errorBackground":"#f01010",
+        "terminalCommandDecoration.successBackground":"#f01010",
+        "terminalCommandGuide.foreground":"#f7373d",
         "terminalCursor.background":"#101010",
-        "terminalCursor.foreground":"#00ccff",
+        "terminalCursor.foreground":"#1793D1",
 		"terminalOverviewRuler.border":"#1793D1",
+		"terminalOverviewRuler.cursorForeground":"#ffa0a0cc",
+		"terminalOverviewRuler.findMatchForeground":"#d186167e",
+		"terminalStickyScroll.background":"#ff0000a0",
 		"terminalStickyScroll.border":"#fff000",
+		"terminalStickyScrollHover.background":"#2a2d2e",
+
+		"terminalSymbolIcon.aliasForeground":"#b180d7",
+		"terminalSymbolIcon.argumentForeground":"#75beff",
+		"terminalSymbolIcon.branchForeground":"#1793d1",
+		"terminalSymbolIcon.commitForeground":"#1793d1",
+		"terminalSymbolIcon.fileForeground":"#1793d1",
+		"terminalSymbolIcon.flagForeground":"#ee9d28",
+		"terminalSymbolIcon.folderForeground":"#1793d1",
+		"terminalSymbolIcon.inlineSuggestionForeground":"#ff0000",
+		"terminalSymbolIcon.methodForeground":"#b180d7",
+		"terminalSymbolIcon.optionForeground":"#ee9d28",
+		"terminalSymbolIcon.optionValueForeground":"#75beff",
+		"terminalSymbolIcon.pullRequestDoneForeground":"#1793d1",
+		// #endregion
 		
 		"textBlockQuote.border":"#f00000",
 
