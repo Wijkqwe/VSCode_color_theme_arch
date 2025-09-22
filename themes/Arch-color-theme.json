@@ -211,7 +211,7 @@
 		"editor.foldBackground":"#1793D180",
 		"editor.foldPlaceholderForeground":"#808080",
 
-		"editor.hoverHighlightBackground":"#10101080",
+		"editor.hoverHighlightBackground":"#1793D130",
 
 		"editor.inactiveSelectionBackground":"#ffffff60",
 		"editor.inlineValuesBackground":"#101010",
@@ -338,13 +338,27 @@
 		"editorMarkerNavigationInfo.background":"#101010",
 		"editorMarkerNavigationInfo.headerBackground":"#f0ff00",
 
-		"editorOverviewRuler.addedForeground":"default",
-		"editorOverviewRuler.background":"default",
+		"editorOverviewRuler.addedForeground":"#ff0000",
+		"editorOverviewRuler.background":"#101010",
 		"editorOverviewRuler.border":"#1793D1",
 		"editorOverviewRuler.bracketMatchForeground":"#a0a0a0",
-		"editorOverviewRuler.commentForeground":"#37373d",
-		"editorOverviewRuler.commentUnresolvedForeground":"#37373d",
-		"editorOverviewRuler.commonContentForeground":"default",
+		"editorOverviewRuler.commentForeground":"#101010",
+		"editorOverviewRuler.commentUnresolvedForeground":"#101010",
+		"editorOverviewRuler.commonContentForeground":"#ff0000","editorOverviewRuler.currentContentForeground":"#40c8ae80",
+		"editorOverviewRuler.deletedForeground":"#f14c4cf0",
+		"editorOverviewRuler.errorForeground":"#ff1212b3",
+		"editorOverviewRuler.findMatchForeground":"#1793d1c0",
+		"editorOverviewRuler.incomingContentForeground":"#40a6ff80",
+		"editorOverviewRuler.infoForeground":"#1793d1",
+		"editorOverviewRuler.inlineChatInserted":"#1010104d",
+		"editorOverviewRuler.inlineChatRemoved":"#1010104d",
+		"editorOverviewRuler.modifiedForeground":"#10101099",
+		"editorOverviewRuler.rangeHighlightForeground":"#007acc99",
+		"editorOverviewRuler.selectionHighlightForeground":"#a0a0a0cc",
+		"editorOverviewRuler.warningForeground":"#cca700",
+		"editorOverviewRuler.wordHighlightForeground":"#a0a0a0cc",
+		"editorOverviewRuler.wordHighlightStrongForeground":"#c0a0c0cc",
+		"editorOverviewRuler.wordHighlightTextForeground":"#a0a0a0cc",
 
 		"editorPane.background":"#101010",
 		"editorRuler.foreground":"#5a5a5a",
@@ -354,9 +368,12 @@
 
 		"editorSuggestWidget.border":"#1793D1",
 		
-		"editorUnicodeHighlight.border":"#cca700",
+		"editorUnicodeHighlight.background":"#101010",
+		"editorUnicodeHighlight.border":"#1793D180",
 
 		"editorWarning.border":"#ff0000",
+
+		"editorWatermark.foreground":"#fb1d1f99",
 
 		"editorWidget.border":"#1793D1",
 		"editorWidget.resizeBorder":"#1793D1",
@@ -472,8 +489,13 @@
 		"minimap.selectionHighlight":"#1793d1c0",
 		"minimap.selectionOccurrenceHighlight":"#f76767c0",
 		"minimap.warningHighlight":"#cca700",
-
+		
 		"minimapGutter.addedBackground":"#101010",
+		"minimapGutter.deletedBackground":"#f14c4c",
+		"minimapGutter.modifiedBackground":"#101010",
+		"minimapSlider.activeBackground":"#bfbfbf33",
+		"minimapSlider.background":"#79797933",
+		"minimapSlider.hoverBackground":"#64646459",
 
 		"multiDiffEditor.border":"#1793D1",
 
@@ -552,6 +574,11 @@
 		"radio.inactiveBorder":"#1793D1",
 
 		"sash.hoverBorder":"#1793D1",
+
+		"scrollbar.shadow":"#000000",
+		"scrollbarSlider.activeBackground":"#bfbfbf66",
+		"scrollbarSlider.background":"#79797966",
+		"scrollbarSlider.hoverBackground":"#646464b3",
 
 		"search.resultsInfoForeground":"#cccccca6",
 		"searchEditor.findMatchBackground":"#10101080",
@@ -694,7 +721,7 @@
         "terminal.hoverHighlightBackground":"#101010",
         "terminal.inactiveSelectionBackground":"#101010",
         "terminal.initialHintForeground":"#00ffff66",
-        "terminal.selectionBackground":"#101010",
+        "terminal.selectionBackground":"#1793D120",
         "terminal.selectionForeground":"#00ffff66",
         "terminal.tab.activeBorder":"#1793D1",
 
@@ -1783,6 +1810,77 @@
 			"settings": {
 				"foreground": "#00bbdd",
 				"fontStyle": ""
+			}
+		},
+		// #endregion
+		//: }}}
+
+		//: LaTeX {{{
+		// #region
+		{
+			"name": "LaTeX - text",
+			"scope": [
+				"text.tex.latex",
+				"support.class.math.block.environment.latex constant.numeric.math.tex",
+				"meta.function.environment.list.latex",
+			],
+			"settings": {
+				"foreground": "#bbddff",
+				"fontStyle": "",
+			}
+		},
+		{
+			"name": "LaTeX - bold",
+			"scope": [
+				"markup.bold.textbf.latex"
+			],
+			"settings": {
+				"foreground": "#60A0FF",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "LaTeX - function",
+			"scope": [
+				"support.function.be.latex",
+				"support.function.section.latex",
+				"support.function.textbf.latex",
+			],
+			"settings": {
+				"foreground": "#82AAFF",
+				"fontStyle": "",
+			}
+		},
+		{
+			"name": "LaTeX - keyword",
+			"scope": [
+				"keyword.other.item.latex"
+			],
+			"settings": {
+				"foreground": "#00cccc",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "LaTeX - math",
+			"scope": [
+				"constant.character.math.tex",
+				"constant.other.math.tex",
+				"constant.other.general.math.tex",
+			],
+			"settings": {
+				"foreground": "#1793D1",
+				"fontStyle": "",
+			}
+		},
+		{
+			"name": "LaTeX - math environment",
+			"scope": [
+				"support.class.math.block.environment.latex",
+			],
+			"settings": {
+				"foreground": "#66bbff",
+				"fontStyle": "",
 			}
 		},
 		// #endregion

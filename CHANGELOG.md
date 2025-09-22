@@ -6,11 +6,18 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+### Added
+
+- LaTeX
+	- text
+	- function
+	- math environment
+
+
 ### Changed
 
 - terminal
-
-
+- editorOverviewRuler
 
 
 ## [0.2.2] - 2025-09-02
