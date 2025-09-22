@@ -1822,7 +1822,9 @@
 			"scope": [
 				"text.tex.latex",
 				"support.class.math.block.environment.latex constant.numeric.math.tex",
+				"support.class.math.block.environment.latex meta.text.normal.tex",
 				"meta.function.environment.list.latex",
+				"meta.data.environment.tabular.latex",
 			],
 			"settings": {
 				"foreground": "#bbddff",
@@ -1845,6 +1847,8 @@
 				"support.function.be.latex",
 				"support.function.section.latex",
 				"support.function.textbf.latex",
+				"support.function.general.latex",
+				"text.tex.latex support.function.general.tex",
 			],
 			"settings": {
 				"foreground": "#82AAFF",
@@ -1854,10 +1858,11 @@
 		{
 			"name": "LaTeX - keyword",
 			"scope": [
-				"keyword.other.item.latex"
+				"keyword.control.preamble.latex",
+				"keyword.other.item.latex",
 			],
 			"settings": {
-				"foreground": "#00cccc",
+				"foreground": "#00ccff",
 				"fontStyle": ""
 			}
 		},
@@ -1880,6 +1885,17 @@
 			],
 			"settings": {
 				"foreground": "#66bbff",
+				"fontStyle": "",
+			}
+		},
+		{
+			"name": "LaTeX - support",
+			"scope": [
+				"support.class.latex",
+				"meta.include.latex",
+			],
+			"settings": {
+				"foreground": "#8888ff",
 				"fontStyle": "",
 			}
 		},

@@ -12,6 +12,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 	- text
 	- function
 	- math environment
+	- include
 
 
 ### Changed
