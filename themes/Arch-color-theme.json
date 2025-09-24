@@ -716,6 +716,23 @@
 
 		"sash.hoverBorder":"#1793D1",
 
+		//: scmGraph
+		// #region
+		"scmGraph.foreground1":"#ffb000",
+		"scmGraph.foreground2":"#dc267f",
+		"scmGraph.foreground3":"#994f00",
+		"scmGraph.foreground4":"#40b0a6",
+		"scmGraph.foreground5":"#b66dff",
+		"scmGraph.historyItemBaseRefColor":"#1793d1cc",
+		"scmGraph.historyItemHoverAdditionsForeground":"#81b88b",
+		"scmGraph.historyItemHoverDefaultLabelBackground":"#101010",
+		"scmGraph.historyItemHoverDefaultLabelForeground":"#1793d1",
+		"scmGraph.historyItemHoverDeletionsForeground":"#c74e3980",
+		"scmGraph.historyItemHoverLabelForeground":"#bbddff",
+		"scmGraph.historyItemRefColor":"#1793d1",
+		"scmGraph.historyItemRemoteRefColor":"#1793d1cc",
+		// #endregion
+
 		"scrollbar.shadow":"#000000",
 		"scrollbarSlider.activeBackground":"#bfbfbf66",
 		"scrollbarSlider.background":"#79797966",

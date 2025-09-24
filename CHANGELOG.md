@@ -12,6 +12,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - radio
 - tree
 - diffEditor
+- scmGraph
 
 
 ## [0.3.0] - 2025-09-24
