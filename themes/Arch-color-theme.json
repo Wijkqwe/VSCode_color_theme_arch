@@ -183,7 +183,7 @@
 		"diffEditor.removedTextBackground":"#10101080",
 		"diffEditor.removedTextBorder":"#1793D1",
 		"diffEditor.unchangedCodeBackground":"#f01010f0",
-		"diffEditor.unchangedRegionBackground":"#f01010",
+		"diffEditor.unchangedRegionBackground":"#1793D180",
 		"diffEditor.unchangedRegionForeground":"#cccccc",
 		"diffEditor.unchangedRegionShadow":"#f00000f0",
 
@@ -404,6 +404,8 @@
 		"gauge.warningBackground":"#b895004d",
 		"gauge.warningForeground":"#b89500",
 		
+		//: git
+		// #region
 		"git.blame.editorDecorationForeground":"#999999",
 		"gitDecoration.addedResourceForeground":"#81b88b",
 		"gitDecoration.conflictingResourceForeground":"#e4676b",
@@ -415,7 +417,9 @@
 		"gitDecoration.stageModifiedResourceForeground":"#e2c08d",
 		"gitDecoration.submoduleResourceForeground":"#8db9e2",
 		"gitDecoration.untrackedResourceForeground":"#73c991",
-
+		//: gitlens 
+		// #region
+		/*
 		"gitlens.closedAutolinkedIssueIconColor":"#a371f7",
 		"gitlens.closedPullRequestIconColor":"#f85149",
 		"gitlens.decorations.addedForegroundColor":"#81b88b",
@@ -440,9 +444,14 @@
 		"gitlens.decorations.worktreeMissingForegroundColor":"#c74e39",
 		"gitlens.graphChangesColumnAddedColor":"#347d39",
 		"gitlens.graphChangesColumnDeletedColor":"#c93c37",
+		*/
+		// #endregion
+		// #endregion
 
 		"icon.foreground":"#a5c5e5",
 
+		//: inline
+		// #region
 		"inlineChat.background":"#f52526",
 		"inlineChat.border":"#1793D1",
 		"inlineChat.foreground":"#1793d1",
@@ -477,7 +486,10 @@
 		"inlineEdit.originalChangedTextBackground":"#10101080",
 		"inlineEdit.tabWillAcceptModifiedBorder":"#1793d1",
 		"inlineEdit.tabWillAcceptOriginalBorder":"#1793d1",
+		// #endregion
 
+		//: input
+		// #region
 		"input.background":"#101010",
 		"input.border":"#1793D1",
 		"input.foreground":"#1793D1",
@@ -497,6 +509,7 @@
 		"inputValidation.warningBackground":"#352a05",
 		"inputValidation.warningBorder":"#b89500",
 		"inputValidation.warningForeground":"#ff0000",
+		// #endregion
 
 		"interactive.activeCodeBorder":"#1793D1",
 		"interactive.inactiveCodeBorder":"#1793D1cc",
@@ -572,7 +585,7 @@
 
 		"multiDiffEditor.background":"#101010",
 		"multiDiffEditor.border":"#1793D1",
-		"multiDiffEditor.headerBackground":"#262626",
+		"multiDiffEditor.headerBackground":"#101010",
 
 		//: notebook
 		// #region
@@ -698,7 +711,7 @@
 		"radio.inactiveBackground":"#101010cc",
 		"radio.inactiveBorder":"#1793D1cc",
 		"radio.inactiveForeground":"#1793D1cc",
-		"radio.inactiveHoverBackground":"#5a5d5e80",
+		"radio.inactiveHoverBackground":"#fa5d5ef0",
 		// #endregion
 
 		"sash.hoverBorder":"#1793D1",
@@ -942,7 +955,7 @@
 		"testing.uncoveredGutterBackground":"#101010c0",
 		// #endregion
 
-		"textBlockQuote.background":"#222222",
+		"textBlockQuote.background":"#f22222",
 		"textBlockQuote.border":"#f0f000",
 
 		"textCodeBlock.background":"#0a0a0a66",
