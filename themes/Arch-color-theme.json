@@ -584,10 +584,10 @@
 
 		"radio.activeBackground":"#101010",
 		"radio.activeBorder":"#1793D1",
-		"radio.activeForeground":"#ffffff",
-		"radio.inactiveBackground":"#ff0000",
+		"radio.activeForeground":"#1793D1",
+		"radio.inactiveBackground":"#101010cc",
 		"radio.inactiveBorder":"#1793D1cc",
-		"radio.inactiveForeground":"#ff0000",
+		"radio.inactiveForeground":"#1793D1cc",
 		"radio.inactiveHoverBackground":"#5a5d5e80",
 
 		"sash.hoverBorder":"#1793D1",
@@ -602,8 +602,10 @@
 		"searchEditor.findMatchBorder":"#1793D1",
 		"searchEditor.textInputBorder":"#1793D1",
 
-		"selection.background":"#ff0000",
+		"selection.background":"#fff000",
 		
+		//: setting
+		// #region
 		"settings.checkboxBackground":"#101010",
 		"settings.checkboxBorder":"#1793D1",
 		"settings.checkboxForeground":"#e0ffff",
@@ -625,6 +627,7 @@
 		"settings.textInputBackground":"#101010",
 		"settings.textInputBorder":"#1793D1",
 		"settings.textInputForeground":"#1793d1",
+		// #endregion
 
 		"sideBar.background":"#101010",
 		"sideBar.border":"#1793D1",
@@ -844,14 +847,14 @@
 		"titleBar.inactiveBackground":"#101010cc",
 		"titleBar.inactiveForeground":"#1793D1cc",
 
-		"toolbar.activeBackground":"#63666750",
-		"toolbar.hoverBackground":"#5a5d5e50",
-		"toolbar.hoverOutline":"#ff0000",
+		"toolbar.activeBackground":"#10101080",
+		"toolbar.hoverBackground":"#10101080",
+		"toolbar.hoverOutline":"#1793D1cc",
 
-		"tree.inactiveIndentGuidesStroke":"#58585866",
+		"tree.inactiveIndentGuidesStroke":"#1793D180",
 		"tree.tableColumnsBorder":"#1793D1",
-		"tree.tableOddRowsBackground":"#f793d1",
-		"tree.indentGuidesStroke":"#585858",
+		"tree.tableOddRowsBackground":"#10101060",
+		"tree.indentGuidesStroke":"#1793D1",
 
 		"walkThrough.embeddedEditorBackground":"#101010",
 		"walkthrough.stepTitle.foreground":"#ffffff",
