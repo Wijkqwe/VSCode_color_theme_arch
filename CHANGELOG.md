@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+### Added
+
+- editorWatermark
+
 
 ## [0.3.0] - 2025-09-24
 
