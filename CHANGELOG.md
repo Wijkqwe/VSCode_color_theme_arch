@@ -13,6 +13,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - tree
 - diffEditor
 - scmGraph
+- list
 
 
 ## [0.3.0] - 2025-09-24
