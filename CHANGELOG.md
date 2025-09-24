@@ -11,6 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - editorWatermark
 - radio
 - tree
+- diffEditor
 
 
 ## [0.3.0] - 2025-09-24
