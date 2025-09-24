@@ -520,9 +520,9 @@
 
 		//: list
 		// #region
-		"list.activeSelectionBackground":"#04395e",
-		"list.activeSelectionForeground":"#ffffff",
-        "list.activeSelectionIconForeground":"#FFF",
+		"list.activeSelectionBackground":"#1793D120",
+		"list.activeSelectionForeground":"#1793D1",
+        "list.activeSelectionIconForeground":"#1793D1",
 		"list.deemphasizedForeground":"#8c8c8c",
         "list.dropBackground":"#1793D180",
 		"list.dropBetweenBackground":"#a5c5e5",
@@ -530,7 +530,7 @@
 		"list.filterMatchBackground":"#10101080",
 		"list.filterMatchBorder":"#1793D1",
 		"list.focusAndSelectionOutline":"#1793D1",
-		"list.focusBackground":"#ff0000",
+		"list.focusBackground":"#fff000",
 		"list.focusForeground":"#ff0000",
 		"list.focusHighlightForeground":"#1793D1",
 		"list.focusOutline":"#1793d1",
