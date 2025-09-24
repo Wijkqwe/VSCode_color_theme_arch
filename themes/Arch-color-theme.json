@@ -91,7 +91,7 @@
 		"chat.requestBubbleBackground":"#10101080",
 		"chat.requestBubbleHoverBackground":"#10101080",
 		"chat.requestCodeBorder":"#004972b8",
-		"chat.slashCommandBackground":"#26477866",
+		"chat.slashCommandBackground":"#f6477866",
 		"chat.slashCommandForeground":"#85b6ff",
 		// #endregion
 
@@ -518,10 +518,38 @@
 		"keybindingLabel.bottomBorder":"#1793D1",
 		"keybindingLabel.foreground":"#bcccdc",
 
+		//: list
+		// #region
+		"list.activeSelectionBackground":"#04395e",
+		"list.activeSelectionForeground":"#ffffff",
         "list.activeSelectionIconForeground":"#FFF",
+		"list.deemphasizedForeground":"#8c8c8c",
         "list.dropBackground":"#1793D180",
+		"list.dropBetweenBackground":"#a5c5e5",
+		"list.errorForeground":"#f88070",
+		"list.filterMatchBackground":"#10101080",
 		"list.filterMatchBorder":"#1793D1",
+		"list.focusAndSelectionOutline":"#1793D1",
+		"list.focusBackground":"#ff0000",
+		"list.focusForeground":"#ff0000",
+		"list.focusHighlightForeground":"#1793D1",
+		"list.focusOutline":"#1793d1",
+		"list.highlightForeground":"#1793D1",
+		"list.hoverBackground":"#cccccc20",
+		"list.hoverForeground":"#1793D1",
 		"list.inactiveFocusBackground":"#101010",
+		"list.inactiveFocusOutline":"#1793D1cc",
+		"list.inactiveSelectionBackground":"#101010",
+		"list.inactiveSelectionForeground":"#1793D1",
+		"list.inactiveSelectionIconForeground":"#1793D1cc",
+		"list.invalidItemForeground":"#b89500",
+		"list.warningForeground":"#cca700",
+
+		"listFilterWidget.background":"#25f526",
+		"listFilterWidget.noMatchesOutline":"#be1100",
+		"listFilterWidget.outline":"#00000000",
+		"listFilterWidget.shadow":"#00000000",
+		// #endregion
 
 		"mcpIcon.starForeground":"#ff8e00",
 		//: menu
