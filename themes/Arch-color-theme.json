@@ -343,12 +343,20 @@
 
 		"editorInlayHint.background":"#101010",
 		"editorInlayHint.foreground":"#969696",
+		"editorInlayHint.parameterBackground":"#101010",
+		"editorInlayHint.parameterForeground":"#969696",
+		"editorInlayHint.typeBackground":"#101010",
+		"editorInlayHint.typeForeground":"#969696",
+
+		"editorLightBulb.foreground":"#ffcc00",
+		"editorLightBulbAi.foreground":"#ffcc00",
+		"editorLightBulbAutoFix.foreground":"#75beff",
 
 		"editorLineNumber.activeForeground":"#1793D1",
 		"editorLineNumber.dimmedForeground":"#1793D1",
 		"editorLineNumber.foreground":"#1793D1c0",
 
-		"editorLink.activeForeground":"#4e94ce",
+		"editorLink.activeForeground":"#1793D1cc",
 
 		"editorMarkerNavigation.background":"#101010",
 		//: NavigationError_border
@@ -356,6 +364,14 @@
 		"editorMarkerNavigationError.headerBackground":"#101010",
 		"editorMarkerNavigationInfo.background":"#101010",
 		"editorMarkerNavigationInfo.headerBackground":"#f0ff00",
+		"editorMarkerNavigationWarning.background":"#cca700",
+		"editorMarkerNavigationWarning.headerBackground":"#cca7001a",
+		
+		"editorMinimap.inlineChatInserted":"#1010104d",
+		"editorMultiCursor.primary.background":"#101010",
+		"editorMultiCursor.primary.foreground":"#aeafbf",
+		"editorMultiCursor.secondary.background":"#101010",
+		"editorMultiCursor.secondary.foreground":"#aeafbf",
 
 		"editorOverviewRuler.addedForeground":"#fff000",
 		"editorOverviewRuler.background":"#101010",
@@ -382,15 +398,31 @@
 		"editorPane.background":"#101010",
 		"editorRuler.foreground":"#5a5a5a",
 
+		"editorStickyScroll.background":"#101010",
 		"editorStickyScroll.border":"#1793D1",
 		"editorStickyScroll.shadow":"#000000",
+		"editorStickyScrollGutter.background":"#101010",
+		"editorStickyScrollHover.background":"#2a2d2e",
 
+		"editorSuggestWidget.background":"#252526",
 		"editorSuggestWidget.border":"#1793D1",
+		"editorSuggestWidget.focusHighlightForeground":"#2aaaff",
+		"editorSuggestWidget.foreground":"#d4d4d4",
+		"editorSuggestWidget.highlightForeground":"#2aaaff",
+		"editorSuggestWidget.selectedBackground":"#101010",
+		"editorSuggestWidget.selectedForeground":"#ffffff",
+		"editorSuggestWidget.selectedIconForeground":"#ffffff",
+		"editorSuggestWidgetStatus.foreground":"#d4d4d480",
 		
 		"editorUnicodeHighlight.background":"#101010",
 		"editorUnicodeHighlight.border":"#1793D180",
 
+		"editorUnnecessaryCode.border":"#ff0000",
+		"editorUnnecessaryCode.opacity":"#000000aa",
+
+		"editorWarning.background":"#ff000080",
 		"editorWarning.border":"#fff000",
+		"editorWarning.foreground":"#cca700",
 
 		"editorWatermark.foreground":"#1793D1",
 
