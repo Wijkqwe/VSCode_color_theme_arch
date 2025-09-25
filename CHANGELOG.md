@@ -9,6 +9,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Changed
 
 - outputView
+- minimap
+	- selectionOccurrenceHighlight
 
 
 ## [0.3.1] - 2025-09-25

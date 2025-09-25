@@ -225,7 +225,7 @@
 
 		"editor.hoverHighlightBackground":"#1793D130",
 
-		"editor.inactiveSelectionBackground":"#ffffff60",
+		"editor.inactiveSelectionBackground":"#ffffff20",
 		"editor.inlineValuesBackground":"#101010",
 		"editor.inlineValuesForeground":"#ffffff80",
 
@@ -241,7 +241,7 @@
 
         // "editor.inactiveSelectionBackground":"#3A3D41",
         // "editor.selectionHighlightBackground":"#ADD6FF26",
-		"editor.selectionBackground":"#888888f0",
+		"editor.selectionBackground":"#cccccc80",
         "editor.selectionForeground":"#ffffff",
         "editor.selectionHighlightBackground":"#10101000",
         "editor.selectionHighlightBorder":"#1793D1",
@@ -379,7 +379,7 @@
 		"editorOverviewRuler.bracketMatchForeground":"#a0a0a0",
 		"editorOverviewRuler.commentForeground":"#101010",
 		"editorOverviewRuler.commentUnresolvedForeground":"#101010",
-		"editorOverviewRuler.commonContentForeground":"#ff0000","editorOverviewRuler.currentContentForeground":"#40c8ae80",
+		"editorOverviewRuler.commonContentForeground":"#fff000","editorOverviewRuler.currentContentForeground":"#40c8ae80",
 		"editorOverviewRuler.deletedForeground":"#f14c4cf0",
 		"editorOverviewRuler.errorForeground":"#fff212b3",
 		"editorOverviewRuler.findMatchForeground":"#1793d1c0",
@@ -414,13 +414,13 @@
 		"editorSuggestWidget.selectedIconForeground":"#ffffff",
 		"editorSuggestWidgetStatus.foreground":"#d4d4d480",
 		
-		"editorUnicodeHighlight.background":"#101010",
+		"editorUnicodeHighlight.background":"#10101040",
 		"editorUnicodeHighlight.border":"#1793D180",
 
-		"editorUnnecessaryCode.border":"#ff0000",
+		"editorUnnecessaryCode.border":"#fff000",
 		"editorUnnecessaryCode.opacity":"#000000aa",
 
-		"editorWarning.background":"#ff000080",
+		"editorWarning.background":"#fff00080",
 		"editorWarning.border":"#fff000",
 		"editorWarning.foreground":"#cca700",
 
@@ -437,6 +437,8 @@
 
 		"errorForeground":"#f48771",
 
+		//: extension
+		// #region
 		"extensionBadge.remoteBackground":"#101010",
 		"extensionBadge.remoteForeground":"#1793d1",
 		"extensionButton.background":"#101010",
@@ -451,6 +453,7 @@
 		"extensionIcon.sponsorForeground":"#d758b3",
 		"extensionIcon.starForeground":"#ff8e00",
 		"extensionIcon.verifiedForeground":"#3794ff",
+		// #endregion
 
 		"focusBorder":"#1793D1",
 		"foreground":"#1793D1",
@@ -661,13 +664,13 @@
 		//: minimap
 		// #region
 		"minimap.background":"#101010",
-		"minimap.chatEditHighlight":"#f01010",
+		"minimap.chatEditHighlight":"#f0f010",
 		"minimap.errorHighlight":"#fff212b3",
 		"minimap.findMatchHighlight":"#1793D1f0",
 		"minimap.foregroundOpacity":"#000000cc",
 		"minimap.infoHighlight":"#1793d1",
 		"minimap.selectionHighlight":"#1793d1c0",
-		"minimap.selectionOccurrenceHighlight":"#f7f767c0",
+		"minimap.selectionOccurrenceHighlight":"#1793d188",
 		"minimap.warningHighlight":"#cca700",
 		
 		"minimapGutter.addedBackground":"#101010",
@@ -803,6 +806,7 @@
 		"quickInputList.focusIconForeground":"#ffffff",
 		"quickInputTitle.background":"#101010",
 		// #endregion
+
 		//: radio
 		// #region
 		"radio.activeBackground":"#101010",
@@ -1074,7 +1078,7 @@
 		"testing.uncoveredGutterBackground":"#101010c0",
 		// #endregion
 
-		"textBlockQuote.background":"#f22222",
+		"textBlockQuote.background":"#f2f222",
 		"textBlockQuote.border":"#f0f000",
 
 		"textCodeBlock.background":"#0a0a0a66",
