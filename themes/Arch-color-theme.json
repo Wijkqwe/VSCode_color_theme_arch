@@ -426,11 +426,31 @@
 
 		"editorWatermark.foreground":"#1793D1",
 
-		"editorWidget.border":"#1793D1",
-		"editorWidget.resizeBorder":"#1793D1",
+		"editorWhitespace.foreground":"#e3e4e229",
 
+		"editorWidget.background":"#252526",
+		"editorWidget.border":"#1793D1",
+		"editorWidget.foreground":"#1793d1",
+		"editorWidget.resizeBorder":"#1793D1",
 		// #endregion
 		//: }}}
+
+		"errorForeground":"#f48771",
+
+		"extensionBadge.remoteBackground":"#101010",
+		"extensionBadge.remoteForeground":"#1793d1",
+		"extensionButton.background":"#101010",
+		"extensionButton.foreground":"#1793d1",
+		"extensionButton.hoverBackground":"#101010",
+		"extensionButton.prominentBackground":"#101010",
+		"extensionButton.prominentForeground":"#1793d1",
+		"extensionButton.prominentHoverBackground":"#101010",
+		"extensionButton.separator":"#1793d1",
+		"extensionIcon.preReleaseForeground":"#1d9271",
+		"extensionIcon.privateForeground":"#ffffff60",
+		"extensionIcon.sponsorForeground":"#d758b3",
+		"extensionIcon.starForeground":"#ff8e00",
+		"extensionIcon.verifiedForeground":"#3794ff",
 
 		"focusBorder":"#1793D1",
 		"foreground":"#1793D1",
@@ -556,9 +576,13 @@
 		"interactive.activeCodeBorder":"#1793D1",
 		"interactive.inactiveCodeBorder":"#1793D1cc",
 
+		"keybindingLabel.background":"#8080802b",
 		"keybindingLabel.border":"#1793D1",
 		"keybindingLabel.bottomBorder":"#1793D1",
 		"keybindingLabel.foreground":"#bcccdc",
+
+		"keybindingTable.headerBackground":"#1793d10a",
+		"keybindingTable.rowsBackground":"#1793d10a",
 
 		//: list
 		// #region
