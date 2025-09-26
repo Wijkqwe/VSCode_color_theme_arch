@@ -6,6 +6,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+### Changed
+
+- notifications
+	- background
+- terminalCommandGuide
+	- foreground
+- terminalCommandDecoration
+
 
 ## [0.3.2] - 2025-09-26
 
