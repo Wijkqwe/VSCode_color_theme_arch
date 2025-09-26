@@ -246,7 +246,7 @@
         "editor.selectionHighlightBackground":"#10101000",
         "editor.selectionHighlightBorder":"#1793D1",
 
-		"editor.snippetFinalTabstopHighlightBackground":"#fff000",
+		"editor.snippetFinalTabstopHighlightBackground":"#0ff000",
 		"editor.snippetFinalTabstopHighlightBorder":"#525252",
 		"editor.snippetTabstopHighlightBackground":"#10101010",
 		"editor.snippetTabstopHighlightBorder":"#1793D110",
@@ -282,7 +282,7 @@
 		"editorError.border":"#1793D1",
 		"editorError.foreground":"#f14c4c",
 
-		"editorGhostText.background":"#fff000",
+		"editorGhostText.background":"#0ff000",
 		"editorGhostText.border":"#fff000",
 		"editorGhostText.foreground":"default",
 
@@ -360,10 +360,10 @@
 
 		"editorMarkerNavigation.background":"#101010",
 		//: NavigationError_border
-		"editorMarkerNavigationError.background":"#fff000",
+		"editorMarkerNavigationError.background":"#0ff000",
 		"editorMarkerNavigationError.headerBackground":"#101010",
 		"editorMarkerNavigationInfo.background":"#101010",
-		"editorMarkerNavigationInfo.headerBackground":"#f0ff00",
+		"editorMarkerNavigationInfo.headerBackground":"#00ff00",
 		"editorMarkerNavigationWarning.background":"#cca700",
 		"editorMarkerNavigationWarning.headerBackground":"#cca7001a",
 		
@@ -699,7 +699,7 @@
 		"notebook.focusedEditorBorder":"#1793d1",
 		"notebook.inactiveFocusedCellBorder":"#1793d1cc",
 		"notebook.inactiveSelectedCellBorder":"#1793d1",
-		"notebook.outputContainerBackgroundColor":"#fff000",
+		"notebook.outputContainerBackgroundColor":"#0ff000",
 		"notebook.outputContainerBorderColor":"#1793d1",
 		"notebook.selectedCellBackground":"#101010",
 		"notebook.selectedCellBorder":"#1793d1",
@@ -847,7 +847,7 @@
 		"searchEditor.findMatchBorder":"#1793D1",
 		"searchEditor.textInputBorder":"#1793D1",
 
-		"selection.background":"#fff000",
+		"selection.background":"#cccccc60",
 		
 		//: setting
 		// #region
@@ -1078,7 +1078,7 @@
 		"testing.uncoveredGutterBackground":"#101010c0",
 		// #endregion
 
-		"textBlockQuote.background":"#f2f222",
+		"textBlockQuote.background":"#02f222",
 		"textBlockQuote.border":"#f0f000",
 
 		"textCodeBlock.background":"#0a0a0a66",

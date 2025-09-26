@@ -13,6 +13,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 	- selectionOccurrenceHighlight
 - LaTeX
 	- entity
+- selection.background
 
 
 ## [0.3.1] - 2025-09-25
