@@ -2,7 +2,7 @@
   "name": "Arch",
   "displayName": "Arch",
   "description": "Most of the colors are `RGB #1793D1`.",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "engines": {
     "vscode": "^1.54.0"
   },

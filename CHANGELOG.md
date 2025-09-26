@@ -6,6 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+
+## [0.3.2] - 2025-09-26
+
 ### Changed
 
 - outputView
@@ -67,6 +70,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Supports CPP(most of).
 
+
+[0.3.2]: https://codeberg.org/Wijkqwe/VSCode_color_theme_arch/releases/tag/v0.3.2
 [0.3.1]: https://codeberg.org/Wijkqwe/VSCode_color_theme_arch/releases/tag/v0.3.1
 [0.3.0]: https://codeberg.org/Wijkqwe/VSCode_color_theme_arch/releases/tag/v0.3.0
 [0.2.2]: https://codeberg.org/Wijkqwe/VSCode_color_theme_arch/releases/tag/v0.2.2
