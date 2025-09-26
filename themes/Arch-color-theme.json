@@ -2185,6 +2185,17 @@
 			}
 		},
 		{
+			"name": "LaTeX - entity",
+			"scope": [
+				"entity.name.footnote.latex",
+				"entity.name.section.latex",
+			],
+			"settings": {
+				"foreground": "#2280EE",
+				"fontStyle": ""
+			}
+		},
+		{
 			"name": "LaTeX - function",
 			"scope": [
 				"support.function.be.latex",
