@@ -13,6 +13,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - terminalCommandGuide
 	- foreground
 - terminalCommandDecoration
+- python
+	- constant.character.format
 
 
 ## [0.3.2] - 2025-09-26

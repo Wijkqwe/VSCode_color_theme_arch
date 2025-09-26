@@ -3011,6 +3011,7 @@
 		{
 			"name": "python - constant/keyword",
 			"scope": [
+				"constant.character.format.placeholder.other.python",
 				"constant.language.python",
 				"constant.numeric.dec.python",
 				"constant.numeric.float.python",
