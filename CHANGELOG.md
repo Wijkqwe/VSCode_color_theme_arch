@@ -15,6 +15,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - terminalCommandDecoration
 - python
 	- constant.character.format
+- editorOverviewRuler
+	- addedForeground
+	- deletedForeground
 
 
 ## [0.3.2] - 2025-09-26
