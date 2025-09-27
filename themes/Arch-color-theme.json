@@ -298,7 +298,8 @@
 		"editorGroupHeader.noTabsBackground":"#101010",
 		"editorGroupHeader.tabsBackground":"#101010",
 		"editorGroupHeader.tabsBorder":"#1793D1",
-
+		//: 
+		// #region
 		"editorGutter.addedBackground":"#101010",
 		"editorGutter.addedSecondaryBackground":"#101010",
 		"editorGutter.background":"#101010",
@@ -312,6 +313,7 @@
 		"editorGutter.itemGlyphForeground":"#d4d4d4",
 		"editorGutter.modifiedBackground":"#101010",
 		"editorGutter.modifiedSecondaryBackground":"#080808",
+		// #endregion
 
 		"editorHint.border":"#ff0000",
 		"editorHint.foreground":"default",
@@ -322,6 +324,8 @@
 		"editorHoverWidget.highlightForeground":"#1793D1",
 		"editorHoverWidget.statusBarBackground":"#101010",
 
+		//: 
+		// #region
 		// "editorIndentGuide.activeBackground":"#f3e4e229",
         "editorIndentGuide.activeBackground1":"#1793D180",
 		"editorIndentGuide.activeBackground2":"#00000000",
@@ -336,6 +340,7 @@
 		"editorIndentGuide.background4":"#00000000",
 		"editorIndentGuide.background5":"#00000000",
 		"editorIndentGuide.background6":"#00000000",
+		// #endregion
 
 		"editorInfo.background":"#fff000a0",
 		"editorInfo.border":"#ff00c0",
@@ -372,7 +377,8 @@
 		"editorMultiCursor.primary.foreground":"#aeafbf",
 		"editorMultiCursor.secondary.background":"#101010",
 		"editorMultiCursor.secondary.foreground":"#aeafbf",
-
+		//: editorOverviewRuler
+		// #region
 		"editorOverviewRuler.addedForeground":"#1793d1cc",
 		"editorOverviewRuler.background":"#101010",
 		"editorOverviewRuler.border":"#1793D1",
@@ -394,7 +400,7 @@
 		"editorOverviewRuler.wordHighlightForeground":"#a0a0a0cc",
 		"editorOverviewRuler.wordHighlightStrongForeground":"#c0a0c0cc",
 		"editorOverviewRuler.wordHighlightTextForeground":"#a0a0a0cc",
-
+		// #endregion
 		"editorPane.background":"#101010",
 		"editorRuler.foreground":"#5a5a5a",
 
@@ -472,19 +478,18 @@
 		//: git
 		// #region
 		"git.blame.editorDecorationForeground":"#999999",
-		"gitDecoration.addedResourceForeground":"#81b88b",
+		"gitDecoration.addedResourceForeground":"#40f040cc",
 		"gitDecoration.conflictingResourceForeground":"#e4676b",
 		"gitDecoration.deletedResourceForeground":"#c74e39",
 		"gitDecoration.ignoredResourceForeground":"#8c8c8c",
-		"gitDecoration.modifiedResourceForeground":"#8dc0e2",
+		"gitDecoration.modifiedResourceForeground":"#90c0e0",
 		"gitDecoration.renamedResourceForeground":"#73c991",
 		"gitDecoration.stageDeletedResourceForeground":"#c74e39",
-		"gitDecoration.stageModifiedResourceForeground":"#e2c08d",
+		"gitDecoration.stageModifiedResourceForeground":"#80c0e0",
 		"gitDecoration.submoduleResourceForeground":"#8db9e2",
-		"gitDecoration.untrackedResourceForeground":"#73c991",
+		"gitDecoration.untrackedResourceForeground":"#40f040cc",
 		//: gitlens 
 		// #region
-		/*
 		"gitlens.closedAutolinkedIssueIconColor":"#a371f7",
 		"gitlens.closedPullRequestIconColor":"#f85149",
 		"gitlens.decorations.addedForegroundColor":"#81b88b",
@@ -509,7 +514,6 @@
 		"gitlens.decorations.worktreeMissingForegroundColor":"#c74e39",
 		"gitlens.graphChangesColumnAddedColor":"#347d39",
 		"gitlens.graphChangesColumnDeletedColor":"#c93c37",
-		*/
 		// #endregion
 		// #endregion
 

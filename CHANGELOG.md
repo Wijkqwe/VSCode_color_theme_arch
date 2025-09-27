@@ -18,6 +18,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - editorOverviewRuler
 	- addedForeground
 	- deletedForeground
+- gitDecoration
+	- untrackedResourceForeground
+	- stageModifiedResourceForeground
+	- addedResourceForeground
 
 
 ## [0.3.2] - 2025-09-26
