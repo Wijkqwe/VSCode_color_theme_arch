@@ -4,7 +4,10 @@ All notable changes to the "Arch" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## Unreleased
+
+
+## [0.3.3] - 2025-09-28
 
 ### Changed
 
@@ -88,6 +91,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Supports CPP(most of).
 
 
+[0.3.3]: https://codeberg.org/Wijkqwe/VSCode_color_theme_arch/releases/tag/v0.3.3
 [0.3.2]: https://codeberg.org/Wijkqwe/VSCode_color_theme_arch/releases/tag/v0.3.2
 [0.3.1]: https://codeberg.org/Wijkqwe/VSCode_color_theme_arch/releases/tag/v0.3.1
 [0.3.0]: https://codeberg.org/Wijkqwe/VSCode_color_theme_arch/releases/tag/v0.3.0
